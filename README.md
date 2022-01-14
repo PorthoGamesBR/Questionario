@@ -4,7 +4,7 @@
 
 ![Utilidade do projeto](https://img.shields.io/badge/-Estudo-9cf)
 ![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/PorthoGamesBR/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/PorthoGamesBR/Questionario?style=for-the-badge)
 ![Github Issues](https://img.shields.io/badge/Issues-0-red)
 
 > Questionário para ajudar a resumir conceitos enquanto estuda, e organizar eles em um banco de dados local.
